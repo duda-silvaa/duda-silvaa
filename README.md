@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff758f&size=20&center=true&vCenter=true&width=1000&lines=Olá;Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
 
 - 💻 Cursando Engenharia de Computação
-- 🌱 Estudante de Desenvolvimento Web Full-Stack
 
 <br>
   
