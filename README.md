@@ -1,23 +1,68 @@
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff758f&size=20&center=true&vCenter=true&width=1000&lines=Olá;Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
+# Olá! Eu sou a Maria Eduarda 👋
 
-- 💻 Cursando Engenharia de Computação
-
-<br>
-  
-  <div align="center">  
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duda-silvaa&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duda-silvaa&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
-  </div>
-
-  ##
- 
-
-   
-  <a href="https://www.instagram.com/duda.sva_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href ="mailto:madu19961@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maria-eduarda-b38b4126a/"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### 💻 Estudante de Engenharia de Computação | Desenvolvimento Web
 
 </div>
 
+---
+
+## 👩🏻‍💻 Sobre mim
+
+Sou estudante de **Engenharia de Computação**, com interesse em **Desenvolvimento de Software e Tecnologia**.
+
+Tenho experiência acadêmica e profissional com desenvolvimento web, dados e automação, e atualmente estou aprofundando meus conhecimentos principalmente em **JavaScript, TypeScript e React**.
+
+Gosto de transformar ideias em projetos e estou sempre buscando aprender novas tecnologias, fortalecer minha base de programação e ganhar cada vez mais autonomia no desenvolvimento.
+
+---
+
+## 🚀 Tecnologias e ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,mysql,git,github,vscode" />
+
+</div>
+
+---
+
+## 💻 Projetos
+
+Aqui você encontrará projetos desenvolvidos durante minha trajetória de aprendizado, faculdade e experiências profissionais.
+
+🔹 **Desenvolvimento Web** - interfaces, dashboards e aplicações web
+
+🔹 **JavaScript / TypeScript** - projetos para prática de lógica e programação
+
+🔹 **React** - aplicações e componentes reutilizáveis
+
+🔹 **Python** - projetos envolvendo programação, visão computacional e processamento de imagens
+
+🔹 **Banco de Dados** - estudos e aplicações utilizando SQL
+
+> 🚧 Estou constantemente atualizando meus projetos e adicionando novos aprendizados por aqui.
+
+---
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/maria-eduarda-b38b4126a/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:[dudasilvasouzza@gmail.com](mailto:dudasilvasouzza@gmail.com)"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ Obrigada pela visita! ✨
+
+</div>
