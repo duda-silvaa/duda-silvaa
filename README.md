@@ -2,7 +2,7 @@
 
 # Olá! Eu sou a Maria Eduarda 👋
 
-### 💻 Estudante de Engenharia de Computação | Desenvolvimento Web
+### 💻 Graduanda de Engenharia de Computação
 
 </div>
 
