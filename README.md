@@ -42,8 +42,6 @@ Aqui você encontrará projetos desenvolvidos durante minha trajetória de apren
 
 🔹 **Banco de Dados** - estudos e aplicações utilizando SQL
 
-> 🚧 Estou constantemente atualizando meus projetos e adicionando novos aprendizados por aqui.
-
 ---
 
 ## 🌐 Onde me encontrar
